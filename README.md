@@ -1,6 +1,8 @@
 # CSE511-Intro-to-AI-PacMan-WUSTL
 
-This is my work of CSE511, Intro to Artificial Intelligence
+This is my work of CSE511, Intro to Artificial Intelligence during spring 2019
+
+Note: The lecture slides are from spring 2020.
 
 # Disclaimer
 
